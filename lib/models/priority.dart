@@ -1,0 +1,4 @@
+enum Priority {
+  urgent,
+  moderate,
+}
